@@ -1,0 +1,19 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/calculator.spec.js"
+  },
+  "keywords": [
+    "mocha",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "shirley silvana",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
